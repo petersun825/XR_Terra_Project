@@ -4,4 +4,4 @@ Download -> open with Unity (any version should be fine) -> play to quest 3, or,
 
 Demo: https://www.youtube.com/watch?v=ZMoL3QYM6RY
 
-<img src="Assets/img.png" width="800"/>
+<img src="Assets/img.png" />
